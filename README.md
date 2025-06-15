@@ -1,14 +1,13 @@
  ### Olá eu me chamo Sara Tascheck
 
-
 ##
 
-| Eu me chamo Sara tenho 20 anos 
+⚡️ • Tech girl
+💻 • Análise e Dev - IFSC
+Linguagens: C | JavaScript | Python | Banco de Dados
 
-- 🎓 Analise e Desenvolimento - IFSC
-- 🏆 C | JavaScript | Python | Banco de Dados
-- 🎯 Nivel: Intermediário
-- ⚡ 
+🎯 Nivel: Intermediário
+ 
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
