@@ -3,7 +3,9 @@
 ##
 
 ⚡️ • Tech girl
+
 💻 • Análise e Dev - IFSC
+
 Linguagens: C | JavaScript | Python | Banco de Dados
 
 🎯 Nivel: Intermediário
